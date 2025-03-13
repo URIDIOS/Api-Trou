@@ -1,0 +1,6 @@
+@Api_Trou_HostAddress = http://localhost:5147
+
+GET {{Api_Trou_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
