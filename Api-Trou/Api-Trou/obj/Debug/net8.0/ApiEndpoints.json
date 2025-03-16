@@ -1,5 +1,84 @@
 [
   {
+    "ContainingType": "Api_Trou.Controllers.PuertaController",
+    "Method": "GetAllPuertas",
+    "RelativePath": "api/Puerta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.PuertaController",
+    "Method": "CreateRegister",
+    "RelativePath": "api/Puerta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "puerta",
+        "Type": "Api_Trou.Models.Puerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.PuertaController",
+    "Method": "DeletePuerta",
+    "RelativePath": "api/Puerta",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idP",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.PuertaController",
+    "Method": "GetPuertaDetails",
+    "RelativePath": "api/Puerta/{idP}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idP",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.PuertaController",
+    "Method": "UpdatePuerta",
+    "RelativePath": "api/Puerta/{idP}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "puerta",
+        "Type": "Api_Trou.Models.Puerta",
+        "IsRequired": true
+      },
+      {
+        "Name": "idP",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Api_Trou.Controllers.RegistroController",
     "Method": "GetAllRegistro",
     "RelativePath": "api/Registro",

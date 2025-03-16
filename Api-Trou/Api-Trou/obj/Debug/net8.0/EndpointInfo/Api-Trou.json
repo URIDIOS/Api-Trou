@@ -5,6 +5,127 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Puerta": {
+      "get": {
+        "tags": [
+          "Puerta"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Puerta"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Puerta"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Puerta"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Puerta"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Puerta"
+        ],
+        "parameters": [
+          {
+            "name": "idP",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Puerta/{idP}": {
+      "get": {
+        "tags": [
+          "Puerta"
+        ],
+        "parameters": [
+          {
+            "name": "idP",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Puerta"
+        ],
+        "parameters": [
+          {
+            "name": "idP",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Puerta"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Puerta"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Puerta"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Registro": {
       "get": {
         "tags": [
@@ -141,6 +262,23 @@
             "type": "string",
             "format": "date-time",
             "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Puerta": {
+        "type": "object",
+        "properties": {
+          "idP": {
+            "$ref": "#/components/schemas/ObjectId"
+          },
+          "abierto": {
+            "type": "string",
+            "nullable": true
+          },
+          "cerrado": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

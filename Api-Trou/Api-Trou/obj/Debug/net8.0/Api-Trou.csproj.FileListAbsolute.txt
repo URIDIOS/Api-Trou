@@ -41,3 +41,46 @@ C:\Users\usuario 6\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\refint\
 C:\Users\usuario 6\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.pdb
 C:\Users\usuario 6\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.genruntimeconfig.cache
 C:\Users\usuario 6\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\ref\Api-Trou.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.csproj.AssemblyReference.cache
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.AssemblyInfoInputs.cache
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.AssemblyInfo.cs
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.sourcelink.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\refint\Api-Trou.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.pdb
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\appsettings.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.staticwebassets.endpoints.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.exe
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.deps.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.runtimeconfig.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.pdb
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Snappier.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\scopedcss\bundle\Api-Trou.styles.css
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets\msbuild.Api-Trou.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets\msbuild.Api-Trou.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets\msbuild.build.Api-Trou.props
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api-Trou.props
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api-Trou.props
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.csproj.Up2Date
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.genruntimeconfig.cache
+C:\Users\Jesus\Documents\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\ref\Api-Trou.dll
