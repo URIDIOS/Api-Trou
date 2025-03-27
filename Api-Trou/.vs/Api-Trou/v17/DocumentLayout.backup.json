@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\",
+  "WorkspaceRootPath": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\documents\\api-trou\\api-trou\\api-trou\\controllers\\puertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\controllers\\puertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\api\\api-trou\\api-trou\\api-trou\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\documents\\api-trou\\api-trou\\api-trou\\repositories\\puertacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\api\\api-trou\\api-trou\\api-trou\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\api\\api-trou\\api-trou\\api-trou\\repositories\\puertacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\puertacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\documents\\api-trou\\api-trou\\api-trou\\repositories\\registrocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\api\\api-trou\\api-trou\\api-trou\\repositories\\registrocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\registrocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\documents\\api-trou\\api-trou\\api-trou\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\api\\api-trou\\api-trou\\api-trou\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\api\\api-trou\\api-trou\\api-trou\\controllers\\puertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\controllers\\puertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +39,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PuertaController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Controllers\\PuertaController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
-              "RelativeToolTip": "Api-Trou\\Controllers\\PuertaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Title": "MongoDBrepository.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "RelativeToolTip": "Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:55:32.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Registro.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Models\\Registro.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
-              "RelativeToolTip": "Api-Trou\\Models\\Registro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:53:37.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistroCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\RegistroCollection.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
-              "RelativeToolTip": "Api-Trou\\Repositories\\RegistroCollection.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:39:45.148Z",
+              "WhenOpened": "2025-03-27T14:56:07.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api-Trou\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api-Trou\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T14:49:54.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PuertaController.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Controllers\\PuertaController.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
+              "RelativeToolTip": "Api-Trou\\Controllers\\PuertaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:55:32.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
+              "RelativeToolTip": "Api-Trou\\Models\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:53:37.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroCollection.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\RegistroCollection.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
+              "RelativeToolTip": "Api-Trou\\Repositories\\RegistroCollection.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:39:45.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PuertaCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
               "RelativeDocumentMoniker": "Api-Trou\\Repositories\\PuertaCollection.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Documents\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\Api\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
               "RelativeToolTip": "Api-Trou\\Repositories\\PuertaCollection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:34:40.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T16:34:40.388Z"
             }
           ]
         }

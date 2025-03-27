@@ -8,7 +8,7 @@ namespace Api_Trou.Repositories
 		public IMongoDatabase db;
 		public MongoDBrepository()
 		{
-			Client = new MongoClient("Cadena de conección");
+			Client = new MongoClient("mongodb+srv://taniaportillo158:Portillo20@trou.uvcvb.mongodb.net/");
 
 			db = Client.GetDatabase("Base de datos");
 		}
