@@ -10,7 +10,7 @@ namespace Api_Trou.Repositories
 		{
 			Client = new MongoClient("mongodb+srv://taniaportillo158:Portillo20@trou.uvcvb.mongodb.net/");
 
-			db = Client.GetDatabase("Base de datos");
+			db = Client.GetDatabase("TROU");
 		}
 	}
 }
