@@ -1,5 +1,84 @@
 [
   {
+    "ContainingType": "Api_Trou.Controllers.LoginController",
+    "Method": "GetAllLogin",
+    "RelativePath": "api/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.LoginController",
+    "Method": "CreateRegister",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Api_Trou.Models.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.LoginController",
+    "Method": "DeletePuerta",
+    "RelativePath": "api/Login",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idL",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.LoginController",
+    "Method": "GetLoginDetails",
+    "RelativePath": "api/Login/{idL}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idL",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Trou.Controllers.LoginController",
+    "Method": "UpdateLogin",
+    "RelativePath": "api/Login/{idL}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Api_Trou.Models.Login",
+        "IsRequired": true
+      },
+      {
+        "Name": "idL",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Api_Trou.Controllers.PuertaController",
     "Method": "GetAllPuertas",
     "RelativePath": "api/Puerta",
