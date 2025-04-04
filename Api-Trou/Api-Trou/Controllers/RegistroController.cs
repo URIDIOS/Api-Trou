@@ -25,7 +25,7 @@ namespace Api_Trou.Controllers
         {
             if (registro == null)
                 return BadRequest();
-            if (registro.Nombre == string.Empty)
+            if (registro.Name == string.Empty)
             {
                 ModelState.AddModelError("Nombre", "esta vacion");
             }
@@ -37,7 +37,7 @@ namespace Api_Trou.Controllers
         {
             if (registro == null)
                 return BadRequest();
-            if (registro.Nombre == string.Empty)
+            if (registro.Name == string.Empty)
             {
                 ModelState.AddModelError("Nombre", "esta vacio");
             }

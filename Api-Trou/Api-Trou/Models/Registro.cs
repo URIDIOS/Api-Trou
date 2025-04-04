@@ -3,12 +3,18 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace Api_Trou.Models
 {
-	public class Registro
-	{
-		[BsonId]
-		public ObjectId Id { get; set; }
-		public string?  Nombre { get; set; }
-		public string? Correo { get; set; }
-		public string? Contraseña { get; set; }
-	}
+    public class Registro
+    {
+        [BsonId]
+        public ObjectId Id { get; set; }
+
+        [BsonElement("name")]
+        public string? Name { get; set; }
+
+        [BsonElement("email")]
+        public string? Email { get; set; }
+
+        [BsonElement("password")]
+        public string? Password { get; set; }
+    }
 }
