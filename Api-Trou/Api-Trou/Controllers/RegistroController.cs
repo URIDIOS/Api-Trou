@@ -27,7 +27,7 @@ namespace Api_Trou.Controllers
                 return BadRequest();
             if (registro.Nombre == string.Empty)
             {
-                ModelState.AddModelError("Nombre","esta vacion");
+                ModelState.AddModelError("Nombre", "esta vacion");
             }
             await db.InsertRegistro(registro);
             return Created("Created", true);
@@ -39,7 +39,7 @@ namespace Api_Trou.Controllers
                 return BadRequest();
             if (registro.Nombre == string.Empty)
             {
-                ModelState.AddModelError("Nombre", "esta vacion");
+                ModelState.AddModelError("Nombre", "esta vacio");
             }
             registro.Id = new MongoDB.Bson.ObjectId(id);
             await db.UpdateRegistro(registro);
