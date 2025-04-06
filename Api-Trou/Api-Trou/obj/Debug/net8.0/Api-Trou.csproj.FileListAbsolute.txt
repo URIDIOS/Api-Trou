@@ -207,3 +207,9 @@ C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.cspro
 C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.dll
 C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\refint\Api-Trou.dll
 C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.pdb
+C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.deps.json
+C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.runtimeconfig.json
+C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\bin\Debug\net8.0\Api-Trou.pdb
+C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\Api-Trou.genruntimeconfig.cache
+C:\Users\Jesus\Videos\Api-Trou\Api-Trou\Api-Trou\obj\Debug\net8.0\ref\Api-Trou.dll
