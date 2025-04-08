@@ -377,7 +377,7 @@
           "idL": {
             "$ref": "#/components/schemas/ObjectId"
           },
-          "nombre": {
+          "email": {
             "type": "string",
             "nullable": true
           },

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api-Trou")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75f7e7be65a637383500c18d306260e21fe975e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbd87bb78aeedcaba0f9ca4bfab31898de4e2e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api-Trou")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api-Trou")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

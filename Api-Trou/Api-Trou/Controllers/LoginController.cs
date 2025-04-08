@@ -24,9 +24,9 @@ namespace Api_Trou.Controllers
         {
             if (login == null)
                 return BadRequest();
-            if (login.Nombre == string.Empty)
+            if (login.Email == string.Empty)
             {
-                ModelState.AddModelError("Nombre", "esta vacion");
+                ModelState.AddModelError("Email", "esta vacion");
             }
             await db.InsertLogin(login);
             return Created("Created", true);
@@ -36,7 +36,7 @@ namespace Api_Trou.Controllers
         {
             if (login == null)
                 return BadRequest();
-            if (login.Nombre == string.Empty)
+            if (login.Email == string.Empty)
             {
                 ModelState.AddModelError("Nombre", "esta vacion");
             }

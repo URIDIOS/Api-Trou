@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\",
+  "WorkspaceRootPath": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\repositories\\registrocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\registrocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\repositories\\logincollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\logincollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\repositories\\registrocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\registrocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\controllers\\puertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\controllers\\puertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\controllers\\puertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\repositories\\puertacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\airam\\downloads\\apiweb\\api-trou\\api-trou\\api-trou\\repositories\\puertacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\puertacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|c:\\users\\jesus\\videos\\api-trou\\api-trou\\api-trou\\repositories\\logincollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A94F4-7B60-4D12-BC97-B5FF955BF7F1}|Api-Trou\\Api-Trou.csproj|solutionrelative:api-trou\\repositories\\logincollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,64 +50,28 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Program.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Program.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Program.cs",
-              "RelativeToolTip": "Api-Trou\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MongoDBrepository.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "RelativeToolTip": "Api-Trou\\Repositories\\MongoDBrepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T23:21:45.685Z",
+              "WhenOpened": "2025-04-05T03:05:03.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Registro.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Models\\Registro.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
-              "RelativeToolTip": "Api-Trou\\Models\\Registro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T03:06:45.866Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Login.cs",
-              "RelativeToolTip": "Api-Trou\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T03:06:42.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MongoDBrepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\MongoDBrepository.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\MongoDBrepository.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\MongoDBrepository.cs",
-              "RelativeToolTip": "Api-Trou\\Repositories\\MongoDBrepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T03:05:03.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "RegistroCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
               "RelativeDocumentMoniker": "Api-Trou\\Repositories\\RegistroCollection.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\RegistroCollection.cs",
               "RelativeToolTip": "Api-Trou\\Repositories\\RegistroCollection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RegistroController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\RegistroController.cs",
               "RelativeDocumentMoniker": "Api-Trou\\Controllers\\RegistroController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\RegistroController.cs",
               "RelativeToolTip": "Api-Trou\\Controllers\\RegistroController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwDMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,23 +91,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Api-Trou\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Api-Trou\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCoAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:28:29.499Z"
+              "WhenOpened": "2025-04-03T19:28:29.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PuertaController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
               "RelativeDocumentMoniker": "Api-Trou\\Controllers\\PuertaController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Controllers\\PuertaController.cs",
               "RelativeToolTip": "Api-Trou\\Controllers\\PuertaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,27 +116,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PuertaCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\PuertaCollection.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
-              "RelativeToolTip": "Api-Trou\\Repositories\\PuertaCollection.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCUAAAADAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginCollection.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\LoginCollection.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\LoginCollection.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\LoginCollection.cs",
+              "RelativeToolTip": "Api-Trou\\Repositories\\LoginCollection.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:38:08.268Z"
+              "WhenOpened": "2025-04-03T19:37:54.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Login.cs*",
+              "RelativeToolTip": "Api-Trou\\Models\\Login.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T03:06:42.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Models\\Registro.cs",
+              "RelativeToolTip": "Api-Trou\\Models\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T03:06:45.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Program.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Program.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Program.cs",
+              "RelativeToolTip": "Api-Trou\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:21:45.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "LoginCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\LoginCollection.cs",
-              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\LoginCollection.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Videos\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\LoginCollection.cs",
-              "RelativeToolTip": "Api-Trou\\Repositories\\LoginCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Title": "PuertaCollection.cs",
+              "DocumentMoniker": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
+              "RelativeDocumentMoniker": "Api-Trou\\Repositories\\PuertaCollection.cs",
+              "ToolTip": "C:\\Users\\airam\\Downloads\\apiweb\\Api-Trou\\Api-Trou\\Api-Trou\\Repositories\\PuertaCollection.cs",
+              "RelativeToolTip": "Api-Trou\\Repositories\\PuertaCollection.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:37:54.188Z"
+              "WhenOpened": "2025-04-03T19:38:08.268Z"
             }
           ]
         }
